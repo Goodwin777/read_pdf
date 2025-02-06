@@ -1,0 +1,7 @@
+.idea
+.venv
+*.pdf
+build
+dist
+.DS_Store
+
