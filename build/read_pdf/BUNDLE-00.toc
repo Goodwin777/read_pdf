@@ -1,3 +1,0 @@
-([('read_pdf',
-   '/Users/oleksii/PycharmProjects/ReadPdf/dist/read_pdf',
-   'EXECUTABLE')],)
