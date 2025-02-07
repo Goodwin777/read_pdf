@@ -1,1 +1,1 @@
-create standalone app for mak os pyinstaller --onefile --noconsole read_pdf_ui.py
+create standalone app for mak os pyinstaller --onefile --noconsole read_pdf.py
